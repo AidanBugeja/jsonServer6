@@ -1,0 +1,25 @@
+{
+  "products":[
+    {
+      "id":1,
+      "color":"red",
+      "title":"LiverPool",
+      "image": "require ('@/assets/images/1.png')",
+      "quantity":25
+    },
+    {
+      "id":2,
+      "color":"green",
+      "title":"Milan",
+      "image": "require ('@/assets/images/2.png')",
+      "quantity":5
+    },
+    {
+      "id":3,
+      "color":"blue",
+      "title":"uventus",
+      "image": "require ('@/assets/images/3.png')",
+      "quantity":0
+    }
+  ]
+}
